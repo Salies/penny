@@ -27,6 +27,5 @@ client.on('message', msg => {
 client.login(config.token);
 
 /*
-TODO: REDO PACKAGE AND DESCRIPTION
 TODO: ADD TIMEZONE
 */

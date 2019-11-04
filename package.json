@@ -6,8 +6,6 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "discord.js": "^11.5.1",
-    "hltv": "^2.16.3",
-    "nodemon": "^1.19.4",
     "request": "^2.88.0",
     "request-promise": "^4.2.5",
     "svg2img": "^0.6.1",
